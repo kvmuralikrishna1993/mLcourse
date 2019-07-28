@@ -1,0 +1,13 @@
+Day-10: NumPy and Pandas
+
+- Functions (strings and Number Functions)
+
+- Inter tools Modules
+
+- File Operations
+
+- Introduction to NumPy
+
+- Pandas for Data Analysis
+
+- Exercises

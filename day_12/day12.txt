@@ -1,0 +1,9 @@
+Day-12: Unsupervised Techniques
+
+- Distance based visualization methods e.g. Multi-dimensional Scaling, etc.
+
+- Partitional Clustering (e.g. k-means, etc.)
+
+- Hierarchical Clustering (e.g. top-down and bottom-up)
+
+- Case Study/Assignments

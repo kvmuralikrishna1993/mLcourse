@@ -1,0 +1,15 @@
+Day-14: Supervised Techniques
+
+- Various Machine Learning paradigms
+
+- Version Spaces and Decision Trees classifiers
+
+- K-Nearest Neighbor
+
+- Bayesian classifiers - Naïve Bayes, Various Discriminant Analysis
+
+- Naïve Bayes Text Classifiers
+
+- Support Vector Machines (on Text Classification)
+
+- Case Study/Assignments

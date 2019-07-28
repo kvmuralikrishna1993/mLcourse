@@ -1,0 +1,10 @@
+Day-13: Unsupervised Techniques - Applications [26th July]
+
+- Fraud detection, Outlier Detection – application of density estimation
+
+- Market Basket Data in Retail and other domains
+
+- Frequent Item-set Mining problem and challenges
+
+- Introduction to MapReduce
+- Case Study/Assignments

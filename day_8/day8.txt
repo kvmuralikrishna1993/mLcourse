@@ -1,0 +1,29 @@
+Day-08: Predictive Analytics and Modelling [21st July]
+
+- Introduction to Predictive Analytics
+
+- Applications and Limitations
+
+- Simple Linear Regression
+
+     o   Visualization and Equation
+
+     o   OLS Method
+
+     o   Model Building
+
+     o   Model Evaluation
+
+     o   Residual Analysis
+
+     o   Model Interpretation
+
+- Multivariate Linear Regression
+
+     o   Introduction to Multivariate Linear Regression
+
+     o   Multicollinearity
+
+- Logistic Regression
+
+- Case Study

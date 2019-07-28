@@ -1,0 +1,19 @@
+Day-15: Supervised Techniques and Introduction to Text Analytics
+
+- Bias vs. Variance tradeoff
+
+- Data Pre-processing, Text Data enrichment
+
+- Feature Engineering and incorporating Domain knowledge
+
+- Case Study/Assignments
+
+- Introduction and Basic Text Processing
+
+- Text Classification and Sentiment Analysis
+
+-  POS Tagging
+
+-  Parsing Introduction and Dependency Parsing
+
+-  Information Extraction Named Entity Recognition

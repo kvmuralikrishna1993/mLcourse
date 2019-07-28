@@ -1,0 +1,15 @@
+Day-11: Introduction to Machine Learning
+
+- Introduction and Overview of Machine Learning
+
+- Goals of Machine Learning in general
+
+- Introduction and Overview of Unsupervised Learning
+
+- Understanding Data (distributions, visualizations) and Data nuances
+
+- Data transformations (linear, non-linear, normalizations, scaling, etc.)
+
+- Various data issues – sparsity, dimensionality, missing values, distributions, etc.
+
+- Projection based visualization methods e.g. PCA, etc.
