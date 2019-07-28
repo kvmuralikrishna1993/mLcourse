@@ -1,0 +1,20 @@
+Day-05: Hypothesis Testing [18th July]
+
+- Hypothesis Testing
+
+       o   Business Importance of Hypothesis Testing
+
+       o   Formulation of Hypothesis
+
+       o   P-value
+
+       o   Left-tailed and Right Tailed Hypothesis Testing
+
+- Box Plots, Histograms
+
+- Q/A and Exercises
+
+
+Prereads
+
+*   http://bit.ly/2O1wkok

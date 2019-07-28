@@ -1,0 +1,26 @@
+Day-07: Exploratory data analysis in R [20th July]
+
+- Introduction to Exploratory Data Analysis
+
+- Types of Data (Public vs. Private)
+
+- Data Cleaning
+
+- Its essence and usage in cases
+
+- Univariate Data
+
+        o   With Categorical Variables
+
+        o   With Quantitative Variables
+
+- Bi-Variate Analysis
+
+        o   Visualizing Data (through Line, Scatter Plots etc.)
+
+        o   Co-variance and co-relation
+
+- Derived Metrices (Type Driven, Business Driven and Data-driven)
+
+- Case study
+

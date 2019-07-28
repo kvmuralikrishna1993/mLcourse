@@ -1,0 +1,14 @@
+Day-06: Introduction to R [19th July]
+
+- Basic Programming constructs
+
+- Calculations, Datatypes, Variables, Operators
+
+- Vectors, Lists
+
+- Matrices and Data frame
+
+- Conditional Statements and Loops
+
+- Exercises
+

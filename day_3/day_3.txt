@@ -1,0 +1,20 @@
+Day-03: Probability Distributions [16th July]
+
+- Probability distributions (Discrete and Continuous)
+
+- Cumulative Probability
+
+- PDF and CDF
+
+- More on Normal Distributions
+
+- Standard Normal Distribution
+
+- Bayes’ Rule and its applications
+
+- Questions on Bayes’ Theorem
+
+Prereads
+
+*   http://bit.ly/2XS5yhO
+*   http://bit.ly/2JyooH8

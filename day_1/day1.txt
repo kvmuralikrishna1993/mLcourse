@@ -1,0 +1,17 @@
+Day-01: Introduction to Big Data and Data Science [27th June]
+
+- Introduction to Data Science
+
+- Thought Experiment
+
+- Cases of Big Data and Analytics
+
+- Introduction to Cloud Computing
+
+- Artificial Intelligence vs. Machine Learning vs. Deep Learning
+
+Prereads
+
+*   http://bit.ly/2XJY7JD
+*   http://bit.ly/2Lm8OAu
+*   http://bit.ly/2YaJX8V

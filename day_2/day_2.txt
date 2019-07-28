@@ -1,0 +1,19 @@
+Day-02 : Introduction to Probability and Statistics [15th July]
+
+- Into to statistics
+
+- Types and basics of Probability
+
+- Random Variable and its types (discrete and continuous) – with numeric examples
+
+- Expected Value and spreads - with numeric examples
+
+- Q/A
+
+Prereads
+
+*   http://bit.ly/30BJ1Ib
+*   http://bit.ly/2XKnXSE
+*   http://bit.ly/2Jzzvj7
+*   http://bit.ly/2xLazOL
+*   http://bit.ly/2XJqCMg

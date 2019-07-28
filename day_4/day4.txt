@@ -1,0 +1,13 @@
+Day-04: Inferential Statistics [17th July]
+
+- Central Limit Theorem and its relationship with Normal Distribution
+
+- Inferential Statistics
+
+- Estimation using CLT - Confidence Interval
+- Q/A and Exercises
+
+Prereads
+
+*   http://bit.ly/2xOS77V
+*   http://bit.ly/2xSDBfv
