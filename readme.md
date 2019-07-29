@@ -1,4 +1,4 @@
-## Other Sources links:
+## Other Useful links:
 
 
 ### [Course Details](https://github.com/kvmuralikrishna1993/mLcourse/blob/master/course_details.pdf)
