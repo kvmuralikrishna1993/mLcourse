@@ -1,0 +1,9 @@
+Day-17: Introduction to Neural Networks and Deep Learning [30th July]
+
+- Stochastic gradient descent
+
+- Multi-layered neural networks
+
+- Multi-layered perceptron and Applications
+
+- Introduction Convolutional neural networks and Recurrent neural networks
